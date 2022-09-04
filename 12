@@ -1,0 +1,22 @@
+<game>CR:MP</game>
+<name>PRIME</name>
+<status>1</status>
+<libs_build>3</libs_build>
+
+<build>206</build>
+<torrent_hash>5a614e15a1a09684ad46794be8a5b033</torrent_hash>
+<files_hash>5e5f04657152c720b14f2dba8b36c7b9</files_hash>
+
+<update_build>71</update_build>
+<update_torrent_hash>3e3c4ce50048df5d97e4ec6d2b7ac98a</update_torrent_hash>
+
+<servers>
+	
+	<server id="1">
+		<name>SERVER 1</name>
+		<ip>141.95.234.16</ip>
+		<port>1923</port>
+		<password>0</password>
+	</server>
+	
+</servers>
