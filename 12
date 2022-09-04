@@ -16,7 +16,10 @@
 		<name>SERVER 1</name>
 		<ip>141.95.234.16</ip>
 		<port>1923</port>
-		<password>0</password>
+		<sockets>1</sockets>
+		<socket_port>8001</socket_port>
+		<start_build>35</start_build>
+		<end_build>35</end_build>
 	</server>
 	
 </servers>
