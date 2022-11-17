@@ -1,5 +1,5 @@
 <game>CR:MP</game>
-<name>PRIME</name>
+<name>PRISE</name>
 <status>1</status>
 <libs_build>3</libs_build>
 
@@ -14,8 +14,8 @@
 	
 	<server id="1">
 		<name>SERVER 1</name>
-		<ip>141.95.234.16</ip>
-		<port>1923</port>
+		<ip>54.38.117.77</ip>
+		<port>8904</port>
 		<sockets>1</sockets>
 		<socket_port>8001</socket_port>
 		<start_build>35</start_build>
